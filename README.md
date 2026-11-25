@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/vivid_spruce_6588), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Lion's Share](./practice/sql/the-lion-s-share) | SQL | Medium | 2026-11-25 |
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-11-25 |
 
 <!-- datadriven:index:end -->
